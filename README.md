@@ -7,13 +7,7 @@
 
 ## Feature Tasks and Requirements
 
-
-- You have been supplied with two demos, each presenting a key new feature.
-- One demonstrates how to restrict access to portions of your APIs data.
-- The other demonstrates switching over to using postgres vs sqlite
-- Your job is to merge the functionality of both demos.
-- Customize your project to use different application features/models than what was used in demos.
-- Features - Django REST Framework
+ Django REST Framework
 - Make your site a DRF powered API as you did in previous lab.
 - Adjust project’s permissions so that only authenticated user’s have access to API.
 - Add a custom permission so that only appropriate users can update or delete it.
